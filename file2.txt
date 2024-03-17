@@ -1,2 +1,4 @@
 Hello world!
+
 Line from user2
+Another line from user2
